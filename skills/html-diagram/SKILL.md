@@ -1,14 +1,16 @@
 ---
 name: html-diagram
-description: Create a self-contained HTML file for visualizing architecture and understanding the stack with a high-quality SVG diagram. Use when the user wants a full-screen diagram or a visual explainer that is not prose-heavy.
+description: Create a self-contained HTML file for visualizing architecture and understanding the stack with a high-quality SVG diagram. Use when the user wants a full-screen diagram, wants the output to be light on prose, or wants an HTML artifact that is mostly there to make the architecture click fast.
 ---
 
 # HTML Diagram
 
 Review the SVG diagrams used throughout `references/html-effectiveness/`.
 
-There are several of them, and some are focused on architecture and similar subjects. After reviewing them, create an HTML file that is strictly for visualizing the architecture and understanding the stack.
+There are a bunch in there, and some of them are focused on architecture and whatnot.
 
-It should not be prose-heavy. It should simplify more into a full-screen diagram.
+After reviewing them, create an HTML file that is strictly for visualizing the architecture and understanding the stack.
+
+It should not be prose-heavy. It should simplify more into a full-screen diagram and whatnot.
 
 Build a high-quality diagram in SVG. Take your time iterating on the diagram more than anything.
