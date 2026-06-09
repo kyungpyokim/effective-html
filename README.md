@@ -1,5 +1,11 @@
 ## HTML skills for pragmatic visual artifacts
 
+
+
+https://github.com/user-attachments/assets/24306977-7f30-44c9-9bff-55f901d557b0
+
+
+
 Two focused skills for generating self-contained HTML deliverables with a strong visual bias:
 
 - `html-diagram`: architecture, stack, and systems understanding rendered as full-screen HTML diagrams with high-quality SVG
