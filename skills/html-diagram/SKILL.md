@@ -17,3 +17,7 @@ It should not be prose-heavy. It should simplify more into a full-screen diagram
 Build a high-quality diagram in SVG. Take your time iterating on the diagram more than anything.
 
 If it makes sense, make the diagram interactive and able to visualize and animate different sequences of system behavior.
+
+Also review `references/architecture-example.html` — a finished example of this skill done well (full-screen SVG stage, clickable nodes, flow chips that light up and animate request paths).
+
+Always include dark mode: hand-rolled CSS variables on `:root` / `html.dark`, a small theme toggle button, `localStorage` persistence, and an apply-before-paint script in `<head>` (default to `prefers-color-scheme`). Style the SVG through CSS classes using those variables — never hard-coded hex inside the SVG — so the diagram follows the theme. No Tailwind; keep all CSS hand-rolled.
