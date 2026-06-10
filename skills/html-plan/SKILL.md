@@ -12,4 +12,4 @@ After reviewing them, create an HTML file for the plan in a similar style.
 
 Keep it pragmatic and simple.
 
-Always include dark mode: hand-rolled CSS variables on `:root` / `html.dark`, a small theme toggle button, `localStorage` persistence, and an apply-before-paint script in `<head>` (default to `prefers-color-scheme`). No Tailwind; keep all CSS hand-rolled.
+Always include dark mode: hand-rolled CSS variables on `:root` / `html.dark`, a small theme toggle button, `localStorage` persistence, and an apply-before-paint script in `<head>` (default to `prefers-color-scheme`).
