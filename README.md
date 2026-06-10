@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/24306977-7f30-44c9-9bff-55f901d557b0
 Two focused skills for generating self-contained HTML deliverables with a strong visual bias:
 
 - `html-diagram`: architecture, stack, and systems understanding rendered as full-screen HTML diagrams with high-quality SVG
-- `html-plan`: implementation plans rendered as pragmatic HTML pages with milestones, sequencing, risks, and just enough explanatory text
+- `html-plan`: HTML plan pages in the effective HTML style
 
 ## Install
 
@@ -33,7 +33,7 @@ npx skills add plannotator/effective-html --skill html-plan
 ## Skills
 
 - `html-diagram` - Build full-screen HTML architecture and stack diagrams with SVG-first presentation and minimal prose.
-- `html-plan` - Build pragmatic HTML implementation plans with structure, sequencing, and lightweight diagrams.
+- `html-plan` - HTML plan pages in the effective HTML style.
 
 ## Repository Shape
 
